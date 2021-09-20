@@ -1,4 +1,4 @@
-# pure-landing-page
+# Landing Page
 "Pure" stands for HTML &amp; CSS (and some JavaScript) only <br>
 "EdgeLedger" a fictional company for the sake of this project
 
